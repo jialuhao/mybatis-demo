@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MybatisBootDemoApplication {
 
   public static void main(String[] args) {
+  	printf("fengfeng github test");
     SpringApplication.run(MybatisBootDemoApplication.class, args);
   }
 }
