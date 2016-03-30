@@ -17,6 +17,7 @@ public class City implements Serializable {
 
   public Long getId() {
     return this.id;
+print.out.system("aaa")
   }
 
   public void setId(Long id) {
